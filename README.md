@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Java Collections: Manipulação Avançada de Estruturas de Dados
 
 Este repositório reúne uma série de exercícios práticos desenvolvidos em **Java**, com foco na exploração e implementação do ecossistema de **Java Collections Framework** (`List`, `Set`, `Map`, `Queue`) e Programação Orientada a Objetos (POO).
@@ -38,17 +37,6 @@ A coleção foi projetada para cobrir os principais cenários de armazenamento, 
    ```bash
    javac Exercicio_07.java
 
-```
-
-3. Inicie o programa compilado:
-```bash
-java Exercicio_07
-
-```
-
-
-
 ---
-
-**Desenvolvido por Lucas Nery Miranda**
+*Desenvolvido por Lucas Nery Miranda*
 *Estudante de Ciência da Computação - UNA*
