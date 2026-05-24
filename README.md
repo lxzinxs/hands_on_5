@@ -52,7 +52,3 @@ java Exercicio_07
 
 **Desenvolvido por Lucas Nery Miranda**
 *Estudante de Ciência da Computação - UNA*
-
-```
-
-```
